@@ -1,0 +1,17 @@
+// Configuração inicial de projeto
+
+// Instalações: 
+// npm install ts-node -D     
+// npm install typescript -D     
+// npm install ts-node-dev -D
+
+// Criação do tsconfig: npx tsc --init
+
+// Execução: npx ts-node-dev src/server.ts
+
+// Arterar package.json em scripts:
+// "scripts": {
+//     "dev": "npx ts-node-dev src/server.ts"
+// },
+
+// Executar como: npm run dev

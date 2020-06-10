@@ -1,0 +1,28 @@
+//Para usar Typescript
+npm install typescript -D
+
+
+//Icones e rotas
+npm install react-icons  
+npm install react-router-dom
+
+// caso de erro "propety match" rodar: rm package-lock.json
+
+
+//Para uso do mapa Leaflet
+npm install leaflet react-leaflet
+
+// Não esquecer de importar o css em https://leafletjs.com/examples/quick-start/
+// Exemplos de layouts: https://react-leaflet.js.org/docs/en/examples
+
+
+//Para as requisições: axios
+npm install axios
+
+
+//Api do IBGE para Ufs e cidades
+//https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet
+
+
+//mais sobre como usar typescript com react
+//https://github.com/typescript-cheatsheets/react-typescript-cheatsheet
